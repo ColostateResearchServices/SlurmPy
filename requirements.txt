@@ -1,0 +1,40 @@
+appdirs==1.4.4
+bash_kernel==0.9.3
+brotlipy==0.7.0
+certifi @ file:///croot/certifi_1683875369620/work/certifi
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+contourpy==1.1.0
+cryptography @ file:///croot/cryptography_1686613057838/work
+cycler==0.11.0
+fonttools==4.40.0
+globus-cli==3.21.0
+globus-sdk==3.33.0
+idna @ file:///work/ci_py311/idna_1676822698822/work
+Jinja2==3.1.3
+jmespath==1.0.1
+kiwisolver==1.4.4
+MarkupSafe==2.1.3
+matplotlib==3.7.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+networkx==3.1
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+packaging @ file:///croot/packaging_1678965309396/work
+pandas==2.0.2
+Pillow==10.0.0
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///croot/pyopenssl_1678965284384/work
+pyparsing==3.0.9
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil==2.8.2
+pytz==2023.3
+requests @ file:///croot/requests_1682607517574/work
+scipy==1.10.1
+six==1.16.0
+tabulate==0.9.0
+tzdata==2023.3
+urllib3 @ file:///croot/urllib3_1686163155763/work

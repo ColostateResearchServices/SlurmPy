@@ -1,0 +1,85 @@
+Project Name,PI Email,Approval Date,Start Date,Amount Awarded,End Date,Project Description,Allocation Status
+csu1,morin@colostate.edu,Missing,2018-03-23,0,2019-03-23,TBD,Waiting
+csu2,sampath@colostate.edu,Missing,2018-04-06,0,2019-04-06,csu2-project-allocation-Sampath,Waiting
+csu8,robert.paton@colostate.edu,2018-07-30,2018-07-30,240000,2019-06-30,"Mechanistic Studies of Catalytic Upgrading of Bio-BDO to 1,3-Butadiene",Approved
+csu3,Stephen.Guzik@colostate.edu,Missing,2018-06-06,0,2019-12-06,high-Reynolds number direct numerical simulation (DNS) of turbulent reacting flows in realistic simulations ,Waiting
+csu23,L.Beck-Johnson@colostate.edu,2019-09-10,2019-09-10,2400000,2019-12-31,Global Bio Diversity,Approved
+csu7,ander.wilson@colostate.edu,2018-10-17,2018-10-17,104000,2019-12-31,Statistical methods to identify perinatal windows of vulnerability in children's health,Approved
+csu22,robert.paton@colostate.edu,Missing,2019-10-10,1000000,2020-04-10,The Center for Computer-Assisted Synthesis,Waiting
+csu24,frank.marrs@colostate.edu,Missing,2019-09-18,0,2020-05-15,Simulation studies for regression of binary network data with exchangeable latent errors,Waiting
+csu5,jorge.rocca@colostate.edu,2019-05-07,2019-05-07,1000000,2021-05-07,Simulations of plasmas from aligned metal nanowire arrays irradiated by laser pulses of relativistic intensity,Approved
+csu29,anton.betten@colostate.edu,2020-07-08,2020-07-08,150000,2021-07-08,The Classification problem in Combinatorics,Approved - Partially Funded
+csu30,"daniel.olsen@colostate.edu,anthony.marchese@colostate.edu,bret.windom@colostate.edu",2020-09-02,2020-09-02,100000,2021-12-31,"Expanding the Knock/Emissions/Misfire Limits for the Realization of Ultra-Low Emissions, High-Efficiency Heavy Duty Natural Gas Engines",Approved - Partially Funded
+csu43,Jody.Vogeler@colostate.edu,2022-06-23,2022-06-01,242000,2023-06-01,Land cover Land Use mapping for three African countries,Approved
+csu41,yuanjing@colostate.edu,Missing,2023-02-23,0,2023-08-31,Microbiome_YJ,Waiting
+csu32,Joshua.keller@colostate.edu,Missing,2023-02-24,0,2023-08-31,Multipollutant Prediction via Penalized Regression,Waiting
+csu44,daniel.olsen@colostate.edu,2023-02-23,2023-02-23,500000,2023-12-31,PRCI - Methane Reduction,Approved
+csu42,"kramerl@colostate.edu,sastry.jayanty@colostate.edu",2023-02-23,2023-02-23,0,2023-12-31,Genome annotation of Hyoscyamus niger,Approved
+csu38,"Todd.Bandhauer@colostate.edu,Bret.Windom@colostate.edu,daniel.olsen@colostate.edu",2023-02-27,2023-02-24,0,2023-12-31,"Development of a Novel High Efficiency, Low-Cost Hybrid SOFC/Internal Combustion Engine Power Generator",Approved
+csu31,huachen@colostate.edu,2023-02-27,2023-02-24,0,2023-12-31,Monte Carlo calculations of metallic kagome spin ice systems,Approved
+csu36,joshua.berger@colostate.edu,2023-02-24,2023-02-24,50000,2023-12-31,BSM Physics CNN,Approved
+csu35,Daniel.Olsen@ColoState.EDU,2023-02-24,2023-02-24,0,2023-12-31,"Development of Liquefied petroleum gas (LPG) fuelled, direct injection, spark-ignition engine for heavy-duty application",Approved
+csu34,Daniel.Olsen@ColoState.EDU,2023-02-24,2023-02-24,0,2023-12-31,Application of radical combustion technology in natural gas engines to reduce emissions,Approved
+csu45,apnichol@rams.colostate.edu,2023-02-13,2023-02-13,0,2023-12-31,Back-Contact Interface-Engineering for Higher Efficiency CdTe PV,Approved
+csu37,jwv@engr.colostate.edu,2023-02-27,2023-02-24,50000,2023-12-31,Fast-computing,Approved
+csu46,Ryan.S.Miller@usda.gov,2023-02-23,2023-02-23,50000,2023-12-31,CameraTrapDetectoR,Approved
+csu72,yzhao85@colostate.edu,2023-11-09,2023-11-03,50000,2023-12-31,Community detection and link mining in large-scale networks,Approved
+csu65,sudeep@colostate.edu,2023-08-28,2023-08-24,50000,2023-12-31,Optimizing Many-core Network-on-Chip Performance Using Machine Learning,Approved
+csu71,tianying@colostate.edu,2023-10-27,2023-10-27,50000,2023-12-31,Exploring measurement errors in the attribution and detection analysis for climate extremes.,Approved
+csu70,bshaby@colostate.edu,2023-10-23,2023-10-23,400000,2023-12-31,Spatial scale-aware tail dependence modeling for high-dimensional spatial extremes,Approved
+csu68,lanedrew@colostate.edu,2023-10-05,2023-10-05,250000,2023-12-31,A Bayesian Record Linkage Approach to Tree Demography Using Overlapping Lidar Scans,Approved
+csu67,christine.chiu@colostate.edu,2023-09-29,2023-09-29,500000,2023-12-31,Emulating three-dimensional radiative transfer for assessing its impact on shallow cumulus organization,Approved
+csu66,samoppa@colostate.edu,2023-09-21,2023-09-21,50000,2023-12-31,Sorghum Drought Candidate genes identification,Approved
+csu47,joshua.chan@colostate.edu,2023-02-23,2023-02-23,50000,2023-12-31,Metagenomics analysis for a colorectal cancer study,Approved
+csu64,ywgao@colostate.edu,2023-08-23,2023-08-23,50000,2023-12-31,CISO Impact on Innovation,Approved
+csu63,patrick.fekety@colostate.edu,2023-08-01,2023-08-01,50000,2023-12-31,"A bottom-up, stakeholder-driven CMS for regional biomass carbon dynamics: Phase II",Approved
+csu62,katherine.williams@colostate.edu,2023-08-01,2023-08-01,0,2023-12-31,miRNA analysis of myoblast exosomes following mechanical strain,Approved
+csu61,James.Henriksen@colostate.edu,2023-08-01,2023-08-01,50000,2023-12-31,L-Sugar Alphafold Dehydrogenese Docking,Approved
+csu60,l.beck-johnson@colostate.edu,2023-08-01,2023-08-01,500000,2023-12-31,The U.S. Animal Movement Model and the U.S. Disease Outbreak Simulation Project,Approved
+csu39,Bret.Windom@colostate.edu,2023-02-27,2023-02-23,0,2023-12-31,Development of a Retrofittable Dry Low Emissions Industrial Gas Turbine Combustion System for 100% Hydrogen and Natural Gas Blends,Approved
+csu57,jlhand@colostate.edu,2023-04-22,2023-04-22,100000,2023-12-31,Assessment of the Origin of Nitrogen Deposition in National Parks and other Sensitive Landscapes,Approved
+csu56,ander.wilson@colostate.edu,2023-04-22,2023-04-22,100000,2023-12-31,Air Pollution and Pregnancy Loss,Approved
+csu55,kayleigh.keller@colostate.edu,2023-02-27,2023-02-27,100000,2023-12-31,Statistical methods for spatial confounding and data masking in environmental epidemiology,Approved
+csu54,liz.lawler@colostate.edu,2023-02-27,2023-02-27,150000,2023-12-31,Anthropogenic and meteorological effects on the occurrence and size of moderate and extreme wildfires,Approved
+csu53,ian.taylor@colostate.edu,2023-02-27,2023-02-27,50000,2023-12-31,An Efficient Parallelizable Sampler for Streaming Data Contexts,Approved
+csu49,cweinber@colostate.edu,2023-02-27,2023-02-24,100000,2023-12-31,Understanding the Materials Physics of Transition Metal Carbides and Nitrides,Approved
+csu52,andee.kaplan@colostate.edu,2023-02-27,2023-02-27,0,2023-12-31,An Efficient Parallelizable Sampler for Streaming Data Contexts,Approved
+csu51,anthony.rappe@colostate.edu,2023-02-27,2023-02-27,200000,2023-12-31,Thermodynamics of perfluoroalkyl substances (PFAS),Approved
+csu50,cweinber@colostate.edu,2023-02-27,2023-02-24,100000,2023-12-31,The Mechanical Behavior of BCC Transition Metals,Approved
+csu59,Stephen.Ogle@colostate.edu,2023-08-01,2023-08-01,100000,2023-12-31,Technical and Outreach Support for EPA’s Greenhouse Gas Program,Approved
+csu48,robert.paton@colostate.edu,2023-01-04,2023-01-04,500000,2024-01-04,Computer-Assisted Organic Synthesis,Approved
+csu-summit-akr,rappe@colostate.edu,Missing,2018-04-05,0,2025-04-05,Interesting electron-electron interactions,Waiting
+csu-summit-fhw,ander@colostate.edu,Missing,2018-04-06,0,2025-04-06,Fosdick Hoeting Wilson Nodes,Waiting
+csu-summit-asb,Aditi.Bhaskar@colostate.edu,Missing,2018-05-10,0,2025-05-10,ASB condo nodes,Waiting
+csu-summit-mat,Wolfgang.Bangerth@colostate.edu,Missing,2018-05-10,0,2025-05-15,CSU Department of Mathematics condo node,Waiting
+csu-summit-hal,asa@cs.colostate.edu,Missing,2018-05-10,0,2025-05-15,Condo node for CSU computer science researchers,Waiting
+csu-summit-crw ,Chris.Weinberger@colostate.edu,Missing,2018-05-10,0,2025-05-15,ACME,Waiting
+csu-summit-cfd,Stephen.Guzik@colostate.edu,Missing,2018-05-10,0,2025-05-15,cfd condo nodes,Waiting
+csu-summit-bio,Colleen.Webb@ColoState.EDU,Missing,2018-05-10,0,2025-05-15,CSU Department of Biology condo node,Waiting
+csu-summit-rsp,Robert.Paton@colostate.edu,Missing,2018-05-10,0,2025-05-15,Robert Paton condo nodes,Waiting
+csu-summit-mbp,yongcheng.zhou@gmail.com,Missing,2018-05-10,0,2025-05-15,MBP condo nodes,Waiting
+csu-summit-sta,Ander.Wilson@colostate.edu,Missing,2018-05-29,0,2025-05-23,CSU Statistics department research computing,Waiting
+csu-general,stephen.oglesby@colostate.edu,Missing,2018-04-01,0,2030-05-01,CSU General Project,Waiting
+csu69,gborlee@colostate.edu,Missing,,0,,Summer Drug Treated Midge Sequences,Waiting
+csu58,sastry.jayanty@colostate.edu,Missing,,0,,Phylogenetic analysis,Waiting
+csu40,shwetah@colostate.edu,Missing,,0,,Test_Alloc_Shweta,Waiting
+csu33,"emma.hanslowe@colostate.edu,page@iws.org",Missing,,0,,Marianas invasive small mammal SECR,Waiting
+csu28,Ellen.Wohl@colostate.edu,Missing,,0,,Wood-based carbon storage in the Mackenzie River Delta,Waiting
+csu27,"franck.dayan@colostate.edu,todd.gaines@colostate.edu",Missing,,0,,Quizalofop tolerant wheat metabolism,Waiting
+csu26,Kristen.Ruegg@colostate.edu,Missing,,0,,Bird Genoscape Project,Waiting
+csu25,dbsloan@rams.colostate.edu,Missing,,0,,Genomics and cytonuclear evolution,Waiting
+csu21,guangyanghou1986@gmail.com,Missing,,0,,Multi-scale study of work zone traffic accidents under adverse weather conditions,Waiting
+csu20,guangyanghou1986@gmail.com,Missing,,0,,Multi-scale study of work zone traffic accidents under adverse weather conditions,Waiting
+csu19,Cris.Argueso@colostate.edu,Missing,,0,,ATAC-Seq,Waiting
+csu18,Jose.de_la_Venta@colostate.edu,Missing,,0,,Strain Induced Magnetocaloric Effect in Nickel Thin Films,Waiting
+csu17,Pankaj.Trivedi@colostate.edu,Missing,,0,,EDGE Soil Metagenome Assemblies,Waiting
+csu16,kkwinner@colostate.edu,Missing,,0,,Test project for CSU form,Waiting
+csu15,"keith.belk@colostate.edu,paul.morley@colostate.edu",Missing,,0,,Assembly and HMM AMR on livestock ,Waiting
+csu14,kkwinner@colostate.edu,Missing,,0,,test allocation request form,Denied
+csu13,vlandau@rams.colostate.edu,Missing,,0,,Jaguar Connectivity Models,Waiting
+csu12,del.leary@colostate.edu,Missing,,0,,Monte Carlo evaluation of CuATSM External Beam Radiosensitization,Waiting
+csu11,jason.apke@colostate.edu,Missing,,0,,WRF-ARW Simulated Supercell Satellite Imagery,Waiting
+csu10,betten@math.colostate.edu,Missing,,0,,Classification of Combinatorial Objects,Waiting
+csu9,erinnish@colostate.edu,Missing,,0,,DSCI 510,Waiting
+csu6,ander.wilson@colostate.edu,Missing,,0,,Children's respiratory health and exposure to air pollution and pesticide mixtures,Waiting
+csu4,tobin.magle@colostate.edu,Missing,,0,,test,Waiting

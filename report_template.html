@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alpine Usage Report</title>
+    <style>
+        /* Add CSS styles here */
+        body { font-family: Arial, sans-serif; }
+        .plot { margin-bottom: 20px; }
+        .plot img { width: 100%; }
+        .plot-description { margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Alpine Usage Report for CSU</h1>
+    <h2>12/01/23 - 12/31/23</h2>
+    <div>
+        {% for plot in plots %}
+            <div class="plot">
+                <h3>{{ plot.title }}</h3>
+                <img src="data:image/png;base64,{{ plot.img_data }}" alt="{{ plot.title }}">
+                <p class="plot-description">{{ plot.description }}</p>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
