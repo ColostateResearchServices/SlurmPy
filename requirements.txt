@@ -24,7 +24,7 @@ networkx==3.1
 numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
 packaging @ file:///croot/packaging_1678965309396/work
 pandas==2.0.2
-Pillow==10.0.0
+Pillow==13.0.0
 pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pyOpenSSL @ file:///croot/pyopenssl_1678965284384/work
